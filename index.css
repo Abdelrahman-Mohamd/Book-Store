@@ -1,0 +1,33 @@
+body{
+    background-color: #9C192C;
+}
+.logo{
+    color: #FED283;
+}
+.navbar-nav .nav-item .nav-link {
+    color: aliceblue;
+    transition: all 0.5s;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+.logo-title{
+    color: aliceblue !important;
+    padding-left: 5rem;
+    padding-right: 17rem;
+}
+.navbar-nav .nav-item .nav-link:hover {
+    color: #FED283;
+}
+.login-signup{
+    margin-left: 6.5rem;
+}
+.btn-outline-primary{
+    background-color: #FED283;
+    color: black !important;
+    border: solid 1px black !important;
+    border-radius: 5rem;
+    transition: all 0.5s;
+}
+.btn-outline-primary:hover{
+    background-color: #fdc866;
+}
